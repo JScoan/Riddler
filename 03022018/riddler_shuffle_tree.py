@@ -4,8 +4,9 @@ import itertools
 import math
 import time
 
-def checkFoldability(deck):
 
+def checkFoldability(deck):
+"""this is just a test of local branching"""
 
 
 
